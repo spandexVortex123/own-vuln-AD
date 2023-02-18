@@ -2,7 +2,7 @@
 
 
 ## Setup
-1. User `sconfig` to update:
+1. Use `sconfig` to update:
     - Computer Name
     - Set static IP Address
     - Set DNS servers
